@@ -1,0 +1,491 @@
+Displacement Vectors (U1, U2, U3) at Nearest Nodes to Defined Centroid Coordinates
+Fixed X = 2.0363, Fixed Y = 2.0718
+Threshold = 3.25, Top = 15.5
+
+Defined Centroid Coordinates (for i=1 to 11):
+  Point 1: (X, Y, Z) = (2.0363, 2.0718, 3.2500)
+  Point 2: (X, Y, Z) = (2.0363, 2.0718, 4.4750)
+  Point 3: (X, Y, Z) = (2.0363, 2.0718, 5.7000)
+  Point 4: (X, Y, Z) = (2.0363, 2.0718, 6.9250)
+  Point 5: (X, Y, Z) = (2.0363, 2.0718, 8.1500)
+  Point 6: (X, Y, Z) = (2.0363, 2.0718, 9.3750)
+  Point 7: (X, Y, Z) = (2.0363, 2.0718, 10.6000)
+  Point 8: (X, Y, Z) = (2.0363, 2.0718, 11.8250)
+  Point 9: (X, Y, Z) = (2.0363, 2.0718, 13.0500)
+  Point 10: (X, Y, Z) = (2.0363, 2.0718, 14.2750)
+  Point 11: (X, Y, Z) = (2.0363, 2.0718, 15.5000)
+
+---------------------------------------------------
+
+Mode 1:
+  Centroid Point 1:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 3.2500)
+    Nearest Node Label: 1250
+    Nearest Node Coordinate: (2.0555, 1.8100, 3.1093)
+    Displacement (U1, U2, U3): [ 6.8392760e-06  0.0000000e+00 -7.1126638e-06]
+  Centroid Point 2:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 4.4750)
+    Nearest Node Label: 3956
+    Nearest Node Coordinate: (1.7939, 2.1446, 4.4413)
+    Displacement (U1, U2, U3): [ 5.8266094e-05 -1.6951049e-04  1.7902512e-05]
+  Centroid Point 3:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 5.7000)
+    Nearest Node Label: 1855
+    Nearest Node Coordinate: (2.1076, 1.8100, 5.6004)
+    Displacement (U1, U2, U3): [ 1.2679731e-04 -3.8878838e-04 -6.8638430e-05]
+  Centroid Point 4:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 6.9250)
+    Nearest Node Label: 3918
+    Nearest Node Coordinate: (2.1631, 2.1477, 6.7924)
+    Displacement (U1, U2, U3): [ 2.1549949e-04 -6.7230198e-04 -1.1038921e-06]
+  Centroid Point 5:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 8.1500)
+    Nearest Node Label: 4021
+    Nearest Node Coordinate: (2.1569, 2.1538, 8.3118)
+    Displacement (U1, U2, U3): [ 3.4929489e-04 -1.1000443e-03  3.0922595e-06]
+  Centroid Point 6:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 9.3750)
+    Nearest Node Label: 3320
+    Nearest Node Coordinate: (2.0329, 2.2381, 9.4597)
+    Displacement (U1, U2, U3): [ 4.6489318e-04 -1.4570252e-03  4.5014971e-05]
+  Centroid Point 7:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 10.6000)
+    Nearest Node Label: 3825
+    Nearest Node Coordinate: (1.8327, 2.1295, 10.5139)
+    Displacement (U1, U2, U3): [ 5.7289161e-04 -1.8003773e-03  3.3840151e-05]
+  Centroid Point 8:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 11.8250)
+    Nearest Node Label: 3841
+    Nearest Node Coordinate: (1.8966, 2.2301, 11.8320)
+    Displacement (U1, U2, U3): [ 7.2099769e-04 -2.2553455e-03  6.4113723e-05]
+  Centroid Point 9:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 13.0500)
+    Nearest Node Label: 2584
+    Nearest Node Coordinate: (1.9998, 1.8100, 13.2081)
+    Displacement (U1, U2, U3): [ 8.5845706e-04 -2.7430595e-03 -9.2840375e-05]
+  Centroid Point 10:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 14.2750)
+    Nearest Node Label: 2690
+    Nearest Node Coordinate: (1.9638, 1.8100, 14.3731)
+    Displacement (U1, U2, U3): [ 9.8962302e-04 -3.1532296e-03 -8.7928172e-05]
+  Centroid Point 11:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 15.5000)
+    Nearest Node Label: 48
+    Nearest Node Coordinate: (1.8849, 2.1087, 15.5000)
+    Displacement (U1, U2, U3): [ 1.1329119e-03 -3.5459043e-03  2.7416449e-05]
+
+---------------------------------------------------
+
+Mode 2:
+  Centroid Point 1:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 3.2500)
+    Nearest Node Label: 1250
+    Nearest Node Coordinate: (2.0555, 1.8100, 3.1093)
+    Displacement (U1, U2, U3): [4.2453164e-05 0.0000000e+00 8.4924886e-06]
+  Centroid Point 2:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 4.4750)
+    Nearest Node Label: 3956
+    Nearest Node Coordinate: (1.7939, 2.1446, 4.4413)
+    Displacement (U1, U2, U3): [2.3648134e-04 6.0347065e-05 3.2962769e-05]
+  Centroid Point 3:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 5.7000)
+    Nearest Node Label: 1855
+    Nearest Node Coordinate: (2.1076, 1.8100, 5.6004)
+    Displacement (U1, U2, U3): [4.8456152e-04 1.4754471e-04 1.6136266e-05]
+  Centroid Point 4:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 6.9250)
+    Nearest Node Label: 3918
+    Nearest Node Coordinate: (2.1631, 2.1477, 6.7924)
+    Displacement (U1, U2, U3): [ 7.594897e-04  2.511861e-04 -2.073320e-05]
+  Centroid Point 5:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 8.1500)
+    Nearest Node Label: 4021
+    Nearest Node Coordinate: (2.1569, 2.1538, 8.3118)
+    Displacement (U1, U2, U3): [ 1.1681990e-03  3.9377523e-04 -2.4995832e-05]
+  Centroid Point 6:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 9.3750)
+    Nearest Node Label: 3320
+    Nearest Node Coordinate: (2.0329, 2.2381, 9.4597)
+    Displacement (U1, U2, U3): [ 1.4911734e-03  4.8980664e-04 -4.8039356e-06]
+  Centroid Point 7:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 10.6000)
+    Nearest Node Label: 3825
+    Nearest Node Coordinate: (1.8327, 2.1295, 10.5139)
+    Displacement (U1, U2, U3): [1.8217440e-03 5.6192477e-04 5.4729768e-05]
+  Centroid Point 8:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 11.8250)
+    Nearest Node Label: 3841
+    Nearest Node Coordinate: (1.8966, 2.2301, 11.8320)
+    Displacement (U1, U2, U3): [2.2078976e-03 6.9109799e-04 3.0373583e-05]
+  Centroid Point 9:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 13.0500)
+    Nearest Node Label: 2584
+    Nearest Node Coordinate: (1.9998, 1.8100, 13.2081)
+    Displacement (U1, U2, U3): [2.7031922e-03 8.3107542e-04 3.7731304e-05]
+  Centroid Point 10:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 14.2750)
+    Nearest Node Label: 2690
+    Nearest Node Coordinate: (1.9638, 1.8100, 14.3731)
+    Displacement (U1, U2, U3): [3.0584969e-03 9.2526822e-04 4.6832803e-05]
+  Centroid Point 11:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 15.5000)
+    Nearest Node Label: 48
+    Nearest Node Coordinate: (1.8849, 2.1087, 15.5000)
+    Displacement (U1, U2, U3): [3.3297306e-03 1.0026636e-03 4.3457494e-05]
+
+---------------------------------------------------
+
+Mode 3:
+  Centroid Point 1:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 3.2500)
+    Nearest Node Label: 1250
+    Nearest Node Coordinate: (2.0555, 1.8100, 3.1093)
+    Displacement (U1, U2, U3): [-5.4482339e-06  0.0000000e+00  2.8408047e-05]
+  Centroid Point 2:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 4.4750)
+    Nearest Node Label: 3956
+    Nearest Node Coordinate: (1.7939, 2.1446, 4.4413)
+    Displacement (U1, U2, U3): [-4.5215365e-05 -2.2173437e-05  1.8132956e-05]
+  Centroid Point 3:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 5.7000)
+    Nearest Node Label: 1855
+    Nearest Node Coordinate: (2.1076, 1.8100, 5.6004)
+    Displacement (U1, U2, U3): [8.6410546e-05 1.1245464e-04 7.3744217e-05]
+  Centroid Point 4:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 6.9250)
+    Nearest Node Label: 3918
+    Nearest Node Coordinate: (2.1631, 2.1477, 6.7924)
+    Displacement (U1, U2, U3): [-7.7938326e-05  2.0573175e-04  7.0928516e-05]
+  Centroid Point 5:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 8.1500)
+    Nearest Node Label: 4021
+    Nearest Node Coordinate: (2.1569, 2.1538, 8.3118)
+    Displacement (U1, U2, U3): [-1.2306434e-04  2.5749381e-04  6.9938775e-05]
+  Centroid Point 6:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 9.3750)
+    Nearest Node Label: 3320
+    Nearest Node Coordinate: (2.0329, 2.2381, 9.4597)
+    Displacement (U1, U2, U3): [-2.6169271e-04  1.0724644e-04  5.5306868e-05]
+  Centroid Point 7:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 10.6000)
+    Nearest Node Label: 3825
+    Nearest Node Coordinate: (1.8327, 2.1295, 10.5139)
+    Displacement (U1, U2, U3): [-1.8289482e-04 -2.0452999e-04  1.9050760e-05]
+  Centroid Point 8:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 11.8250)
+    Nearest Node Label: 3841
+    Nearest Node Coordinate: (1.8966, 2.2301, 11.8320)
+    Displacement (U1, U2, U3): [-3.9390635e-04 -2.5874976e-04  3.2037053e-05]
+  Centroid Point 9:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 13.0500)
+    Nearest Node Label: 2584
+    Nearest Node Coordinate: (1.9998, 1.8100, 13.2081)
+    Displacement (U1, U2, U3): [ 1.6210425e-04 -2.7472264e-04 -1.5157456e-05]
+  Centroid Point 10:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 14.2750)
+    Nearest Node Label: 2690
+    Nearest Node Coordinate: (1.9638, 1.8100, 14.3731)
+    Displacement (U1, U2, U3): [ 1.1064103e-04 -4.8807840e-04 -2.6063604e-05]
+  Centroid Point 11:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 15.5000)
+    Nearest Node Label: 48
+    Nearest Node Coordinate: (1.8849, 2.1087, 15.5000)
+    Displacement (U1, U2, U3): [-4.6271432e-04 -7.9025462e-04  2.6413773e-06]
+
+---------------------------------------------------
+
+Mode 4:
+  Centroid Point 1:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 3.2500)
+    Nearest Node Label: 1250
+    Nearest Node Coordinate: (2.0555, 1.8100, 3.1093)
+    Displacement (U1, U2, U3): [ 4.1612748e-05  0.0000000e+00 -9.4217321e-05]
+  Centroid Point 2:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 4.4750)
+    Nearest Node Label: 3956
+    Nearest Node Coordinate: (1.7939, 2.1446, 4.4413)
+    Displacement (U1, U2, U3): [ 2.2168412e-04 -7.8956381e-04 -2.6899930e-05]
+  Centroid Point 3:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 5.7000)
+    Nearest Node Label: 1855
+    Nearest Node Coordinate: (2.1076, 1.8100, 5.6004)
+    Displacement (U1, U2, U3): [ 0.00038077 -0.00155444 -0.00026983]
+  Centroid Point 4:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 6.9250)
+    Nearest Node Label: 3918
+    Nearest Node Coordinate: (2.1631, 2.1477, 6.7924)
+    Displacement (U1, U2, U3): [ 5.5268966e-04 -2.2016803e-03 -6.5278255e-05]
+  Centroid Point 5:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 8.1500)
+    Nearest Node Label: 4021
+    Nearest Node Coordinate: (2.1569, 2.1538, 8.3118)
+    Displacement (U1, U2, U3): [ 6.3306221e-04 -2.5525154e-03 -2.1778613e-05]
+  Centroid Point 6:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 9.3750)
+    Nearest Node Label: 3320
+    Nearest Node Coordinate: (2.0329, 2.2381, 9.4597)
+    Displacement (U1, U2, U3): [ 5.9093750e-04 -2.3393889e-03 -3.8547507e-05]
+  Centroid Point 7:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 10.6000)
+    Nearest Node Label: 3825
+    Nearest Node Coordinate: (1.8327, 2.1295, 10.5139)
+    Displacement (U1, U2, U3): [ 4.5420564e-04 -1.7983831e-03 -1.9925290e-05]
+  Centroid Point 8:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 11.8250)
+    Nearest Node Label: 3841
+    Nearest Node Coordinate: (1.8966, 2.2301, 11.8320)
+    Displacement (U1, U2, U3): [ 1.7447754e-04 -7.5353839e-04 -9.7062475e-05]
+  Centroid Point 9:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 13.0500)
+    Nearest Node Label: 2584
+    Nearest Node Coordinate: (1.9998, 1.8100, 13.2081)
+    Displacement (U1, U2, U3): [-0.00011611  0.00069474  0.0003655 ]
+  Centroid Point 10:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 14.2750)
+    Nearest Node Label: 2690
+    Nearest Node Coordinate: (1.9638, 1.8100, 14.3731)
+    Displacement (U1, U2, U3): [-0.0004326   0.00202493  0.00036138]
+  Centroid Point 11:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 15.5000)
+    Nearest Node Label: 48
+    Nearest Node Coordinate: (1.8849, 2.1087, 15.5000)
+    Displacement (U1, U2, U3): [-9.0671820e-04  3.2747143e-03 -2.5654268e-05]
+
+---------------------------------------------------
+
+Mode 5:
+  Centroid Point 1:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 3.2500)
+    Nearest Node Label: 1250
+    Nearest Node Coordinate: (2.0555, 1.8100, 3.1093)
+    Displacement (U1, U2, U3): [1.4404870e-06 0.0000000e+00 7.1366376e-04]
+  Centroid Point 2:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 4.4750)
+    Nearest Node Label: 3956
+    Nearest Node Coordinate: (1.7939, 2.1446, 4.4413)
+    Displacement (U1, U2, U3): [ 2.4953964e-05 -4.5688418e-07  1.0279509e-03]
+  Centroid Point 3:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 5.7000)
+    Nearest Node Label: 1855
+    Nearest Node Coordinate: (2.1076, 1.8100, 5.6004)
+    Displacement (U1, U2, U3): [2.4229139e-05 1.7075692e-05 1.3017079e-03]
+  Centroid Point 4:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 6.9250)
+    Nearest Node Label: 3918
+    Nearest Node Coordinate: (2.1631, 2.1477, 6.7924)
+    Displacement (U1, U2, U3): [2.4696645e-05 5.9952949e-06 1.5639259e-03]
+  Centroid Point 5:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 8.1500)
+    Nearest Node Label: 4021
+    Nearest Node Coordinate: (2.1569, 2.1538, 8.3118)
+    Displacement (U1, U2, U3): [2.5670060e-05 1.0009747e-05 1.8595672e-03]
+  Centroid Point 6:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 9.3750)
+    Nearest Node Label: 3320
+    Nearest Node Coordinate: (2.0329, 2.2381, 9.4597)
+    Displacement (U1, U2, U3): [2.5342639e-05 7.6846845e-06 2.0499779e-03]
+  Centroid Point 7:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 10.6000)
+    Nearest Node Label: 3825
+    Nearest Node Coordinate: (1.8327, 2.1295, 10.5139)
+    Displacement (U1, U2, U3): [2.4008694e-05 8.7774797e-06 2.1979474e-03]
+  Centroid Point 8:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 11.8250)
+    Nearest Node Label: 3841
+    Nearest Node Coordinate: (1.8966, 2.2301, 11.8320)
+    Displacement (U1, U2, U3): [7.8633420e-06 2.6612306e-06 2.3480670e-03]
+  Centroid Point 9:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 13.0500)
+    Nearest Node Label: 2584
+    Nearest Node Coordinate: (1.9998, 1.8100, 13.2081)
+    Displacement (U1, U2, U3): [-1.2131265e-05  1.9388126e-06  2.4563025e-03]
+  Centroid Point 10:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 14.2750)
+    Nearest Node Label: 2690
+    Nearest Node Coordinate: (1.9638, 1.8100, 14.3731)
+    Displacement (U1, U2, U3): [-2.6892585e-05 -4.5984179e-06  2.5095076e-03]
+  Centroid Point 11:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 15.5000)
+    Nearest Node Label: 48
+    Nearest Node Coordinate: (1.8849, 2.1087, 15.5000)
+    Displacement (U1, U2, U3): [-3.7521768e-05 -9.9102353e-06  2.5281059e-03]
+
+---------------------------------------------------
+
+Mode 6:
+  Centroid Point 1:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 3.2500)
+    Nearest Node Label: 1250
+    Nearest Node Coordinate: (2.0555, 1.8100, 3.1093)
+    Displacement (U1, U2, U3): [2.8291694e-04 0.0000000e+00 2.4560477e-05]
+  Centroid Point 2:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 4.4750)
+    Nearest Node Label: 3956
+    Nearest Node Coordinate: (1.7939, 2.1446, 4.4413)
+    Displacement (U1, U2, U3): [9.9959760e-04 1.5444098e-04 1.0149391e-05]
+  Centroid Point 3:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 5.7000)
+    Nearest Node Label: 1855
+    Nearest Node Coordinate: (2.1076, 1.8100, 5.6004)
+    Displacement (U1, U2, U3): [1.7591525e-03 4.2156706e-04 3.8049944e-05]
+  Centroid Point 4:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 6.9250)
+    Nearest Node Label: 3918
+    Nearest Node Coordinate: (2.1631, 2.1477, 6.7924)
+    Displacement (U1, U2, U3): [ 2.1310095e-03  6.0868572e-04 -8.7282751e-06]
+  Centroid Point 5:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 8.1500)
+    Nearest Node Label: 4021
+    Nearest Node Coordinate: (2.1569, 2.1538, 8.3118)
+    Displacement (U1, U2, U3): [ 2.3031274e-03  6.5649272e-04 -1.7285272e-05]
+  Centroid Point 6:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 9.3750)
+    Nearest Node Label: 3320
+    Nearest Node Coordinate: (2.0329, 2.2381, 9.4597)
+    Displacement (U1, U2, U3): [ 2.0134982e-03  5.1315600e-04 -5.1387393e-05]
+  Centroid Point 7:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 10.6000)
+    Nearest Node Label: 3825
+    Nearest Node Coordinate: (1.8327, 2.1295, 10.5139)
+    Displacement (U1, U2, U3): [ 0.00153291  0.00031448 -0.00014664]
+  Centroid Point 8:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 11.8250)
+    Nearest Node Label: 3841
+    Nearest Node Coordinate: (1.8966, 2.2301, 11.8320)
+    Displacement (U1, U2, U3): [ 0.0005729   0.00012626 -0.00013933]
+  Centroid Point 9:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 13.0500)
+    Nearest Node Label: 2584
+    Nearest Node Coordinate: (1.9998, 1.8100, 13.2081)
+    Displacement (U1, U2, U3): [-0.00079206 -0.00013196 -0.00015267]
+  Centroid Point 10:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 14.2750)
+    Nearest Node Label: 2690
+    Nearest Node Coordinate: (1.9638, 1.8100, 14.3731)
+    Displacement (U1, U2, U3): [-0.00195585 -0.00030741 -0.00017049]
+  Centroid Point 11:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 15.5000)
+    Nearest Node Label: 48
+    Nearest Node Coordinate: (1.8849, 2.1087, 15.5000)
+    Displacement (U1, U2, U3): [-0.00270272 -0.00036889 -0.00017448]
+
+---------------------------------------------------
+
+Mode 7:
+  Centroid Point 1:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 3.2500)
+    Nearest Node Label: 1250
+    Nearest Node Coordinate: (2.0555, 1.8100, 3.1093)
+    Displacement (U1, U2, U3): [-1.2655111e-04  0.0000000e+00  4.0998275e-05]
+  Centroid Point 2:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 4.4750)
+    Nearest Node Label: 3956
+    Nearest Node Coordinate: (1.7939, 2.1446, 4.4413)
+    Displacement (U1, U2, U3): [-4.1006968e-04 -3.0949523e-04  4.9775634e-05]
+  Centroid Point 3:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 5.7000)
+    Nearest Node Label: 1855
+    Nearest Node Coordinate: (2.1076, 1.8100, 5.6004)
+    Displacement (U1, U2, U3): [-1.7254522e-04 -1.2527144e-04  4.8600181e-05]
+  Centroid Point 4:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 6.9250)
+    Nearest Node Label: 3918
+    Nearest Node Coordinate: (2.1631, 2.1477, 6.7924)
+    Displacement (U1, U2, U3): [-6.36589888e-04 -1.06986816e-04 -5.07350705e-07]
+  Centroid Point 5:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 8.1500)
+    Nearest Node Label: 4021
+    Nearest Node Coordinate: (2.1569, 2.1538, 8.3118)
+    Displacement (U1, U2, U3): [-6.6559936e-04 -2.7327225e-04 -9.5688367e-05]
+  Centroid Point 6:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 9.3750)
+    Nearest Node Label: 3320
+    Nearest Node Coordinate: (2.0329, 2.2381, 9.4597)
+    Displacement (U1, U2, U3): [-0.00069259 -0.00054876 -0.00011766]
+  Centroid Point 7:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 10.6000)
+    Nearest Node Label: 3825
+    Nearest Node Coordinate: (1.8327, 2.1295, 10.5139)
+    Displacement (U1, U2, U3): [-4.7715494e-04 -7.0135912e-04 -6.5528126e-05]
+  Centroid Point 8:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 11.8250)
+    Nearest Node Label: 3841
+    Nearest Node Coordinate: (1.8966, 2.2301, 11.8320)
+    Displacement (U1, U2, U3): [-0.00024717 -0.00036713 -0.00012129]
+  Centroid Point 9:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 13.0500)
+    Nearest Node Label: 2584
+    Nearest Node Coordinate: (1.9998, 1.8100, 13.2081)
+    Displacement (U1, U2, U3): [-1.8390069e-04  9.5155978e-05 -1.5111932e-05]
+  Centroid Point 10:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 14.2750)
+    Nearest Node Label: 2690
+    Nearest Node Coordinate: (1.9638, 1.8100, 14.3731)
+    Displacement (U1, U2, U3): [-4.0009618e-05  6.4318458e-04  3.4321834e-05]
+  Centroid Point 11:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 15.5000)
+    Nearest Node Label: 48
+    Nearest Node Coordinate: (1.8849, 2.1087, 15.5000)
+    Displacement (U1, U2, U3): [ 7.3091371e-04  1.3720699e-03 -3.1280673e-05]
+
+---------------------------------------------------
+
+Mode 8:
+  Centroid Point 1:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 3.2500)
+    Nearest Node Label: 1250
+    Nearest Node Coordinate: (2.0555, 1.8100, 3.1093)
+    Displacement (U1, U2, U3): [-4.8003058e-05  0.0000000e+00  2.5492508e-04]
+  Centroid Point 2:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 4.4750)
+    Nearest Node Label: 3956
+    Nearest Node Coordinate: (1.7939, 2.1446, 4.4413)
+    Displacement (U1, U2, U3): [-0.0002504   0.00149409  0.00012288]
+  Centroid Point 3:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 5.7000)
+    Nearest Node Label: 1855
+    Nearest Node Coordinate: (2.1076, 1.8100, 5.6004)
+    Displacement (U1, U2, U3): [-0.00024827  0.00250878  0.00021247]
+  Centroid Point 4:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 6.9250)
+    Nearest Node Label: 3918
+    Nearest Node Coordinate: (2.1631, 2.1477, 6.7924)
+    Displacement (U1, U2, U3): [-3.6880260e-04  2.5428697e-03 -9.0518130e-05]
+  Centroid Point 5:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 8.1500)
+    Nearest Node Label: 4021
+    Nearest Node Coordinate: (2.1569, 2.1538, 8.3118)
+    Displacement (U1, U2, U3): [-0.0002073   0.00106271 -0.00024608]
+  Centroid Point 6:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 9.3750)
+    Nearest Node Label: 3320
+    Nearest Node Coordinate: (2.0329, 2.2381, 9.4597)
+    Displacement (U1, U2, U3): [ 7.0734645e-06 -4.1327396e-04 -1.2473318e-04]
+  Centroid Point 7:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 10.6000)
+    Nearest Node Label: 3825
+    Nearest Node Coordinate: (1.8327, 2.1295, 10.5139)
+    Displacement (U1, U2, U3): [ 0.00011891 -0.00131338 -0.00011905]
+  Centroid Point 8:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 11.8250)
+    Nearest Node Label: 3841
+    Nearest Node Coordinate: (1.8966, 2.2301, 11.8320)
+    Displacement (U1, U2, U3): [ 1.7621602e-04 -1.5795246e-03 -8.7367389e-06]
+  Centroid Point 9:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 13.0500)
+    Nearest Node Label: 2584
+    Nearest Node Coordinate: (1.9998, 1.8100, 13.2081)
+    Displacement (U1, U2, U3): [-6.589634e-05 -4.216641e-04  5.782475e-04]
+  Centroid Point 10:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 14.2750)
+    Nearest Node Label: 2690
+    Nearest Node Coordinate: (1.9638, 1.8100, 14.3731)
+    Displacement (U1, U2, U3): [-0.00017184  0.00139109  0.00075166]
+  Centroid Point 11:
+    Defined Coordinate: (X, Y, Z) = (2.0363, 2.0718, 15.5000)
+    Nearest Node Label: 48
+    Nearest Node Coordinate: (1.8849, 2.1087, 15.5000)
+    Displacement (U1, U2, U3): [-0.00071503  0.0031938   0.00020307]
+
+---------------------------------------------------
+

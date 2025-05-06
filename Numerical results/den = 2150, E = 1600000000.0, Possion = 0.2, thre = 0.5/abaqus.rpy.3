@@ -1,0 +1,63 @@
+# -*- coding: mbcs -*-
+#
+# Abaqus/Viewer Release 2023 replay file
+# Internal Version: 2022_09_28-20.11.55 183150
+# Run by nagata on Wed Mar 19 09:58:37 2025
+#
+
+# from driverUtils import executeOnCaeGraphicsStartup
+# executeOnCaeGraphicsStartup()
+#: Executing "onCaeGraphicsStartup()" in the site directory ...
+from abaqus import *
+from abaqusConstants import *
+session.Viewport(name='Viewport: 1', origin=(0.0, 0.0), width=168.080200195312, 
+    height=234.630004882812)
+session.viewports['Viewport: 1'].makeCurrent()
+session.viewports['Viewport: 1'].maximize()
+from viewerModules import *
+from driverUtils import executeOnCaeStartup
+executeOnCaeStartup()
+o2 = session.openOdb(name='Modal_Analysis_Job.odb')
+#: Model: E:/EESD/Schekenberg castle on cite inspection/2024-10-25 Zurich/Photogrammetry/Try extend the bottom/Variable sensitivty analysis with prism tower Fixed BCs/den = 2150, E = 1600000000.0, Possion = 0.2, thre = 0.5/Modal_Analysis_Job.odb
+#: Number of Assemblies:         1
+#: Number of Assembly instances: 0
+#: Number of Part instances:     1
+#: Number of Meshes:             1
+#: Number of Element Sets:       2
+#: Number of Node Sets:          5
+#: Number of Steps:              1
+session.viewports['Viewport: 1'].setValues(displayedObject=o2)
+session.viewports['Viewport: 1'].makeCurrent()
+session.viewports['Viewport: 1'].odbDisplay.setPrimaryVariable(
+    variableLabel='U', outputPosition=NODAL, refinement=(INVARIANT, 
+    'Magnitude'), )
+session.viewports['Viewport: 1'].odbDisplay.display.setValues(
+    plotState=CONTOURS_ON_DEF)
+session.viewports['Viewport: 1'].view.setValues(nearPlane=26.5468, 
+    farPlane=46.8705, width=15.701, height=8.45853, cameraPosition=(17.4053, 
+    -9.30793, 39.9585), cameraUpVector=(-0.610653, 0.776038, 0.157696), 
+    cameraTarget=(2.36924, 0.863653, 8.48289))
+session.viewports['Viewport: 1'].view.setValues(nearPlane=27.6901, 
+    farPlane=46.3979, width=16.3772, height=8.82282, cameraPosition=(-10.5691, 
+    -22.0932, 33.6991), cameraUpVector=(-0.169423, 0.942726, 0.287338), 
+    cameraTarget=(2.08477, 0.733639, 8.41924))
+session.viewports['Viewport: 1'].view.setValues(nearPlane=27.0773, 
+    farPlane=47.1002, width=16.0148, height=8.62758, cameraPosition=(-8.87207, 
+    -15.4629, 39.0676), cameraUpVector=(-0.115133, 0.989202, 0.0906898), 
+    cameraTarget=(2.11723, 0.860479, 8.52194))
+session.viewports['Viewport: 1'].view.setValues(nearPlane=27.1846, 
+    farPlane=46.8612, width=16.0783, height=8.66178, cameraPosition=(6.05083, 
+    -4.22533, 44.3909), cameraUpVector=(-0.184614, 0.966875, -0.176266), 
+    cameraTarget=(2.42038, 1.08876, 8.63008))
+session.viewports['Viewport: 1'].view.setValues(nearPlane=27.2097, 
+    farPlane=46.7493, width=16.0931, height=8.66977, cameraPosition=(3.75653, 
+    -11.7062, 42.6294), cameraUpVector=(-0.113154, 0.993412, 0.0181289), 
+    cameraTarget=(2.37777, 0.949828, 8.59737))
+session.viewports['Viewport: 1'].view.setValues(nearPlane=27.2333, 
+    farPlane=46.5698, width=16.1071, height=8.6773, cameraPosition=(5.60827, 
+    -17.4032, 39.8023), cameraUpVector=(-0.0480314, 0.980589, 0.190098), 
+    cameraTarget=(2.41003, 0.850585, 8.54812))
+session.viewports['Viewport: 1'].view.setValues(nearPlane=27.0614, 
+    farPlane=46.8332, width=16.0055, height=8.62254, cameraPosition=(5.88089, 
+    -12.4371, 42.195), cameraUpVector=(-0.0668079, 0.996844, 0.0428911), 
+    cameraTarget=(2.41421, 0.926791, 8.58484))

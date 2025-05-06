@@ -1,0 +1,26 @@
+# -*- coding: mbcs -*-
+from part import *
+from material import *
+from section import *
+from assembly import *
+from step import *
+from interaction import *
+from load import *
+from mesh import *
+from optimization import *
+from job import *
+from sketch import *
+from visualization import *
+from connectorBehavior import *
+mdb.ModelFromInputFile(inputFileName=
+    'E:/EESD/Schekenberg castle on cite inspection/2024-10-25 Zurich/Photogrammetry/Try extend the bottom/Variable sensitivty analysis with prism tower Fixed BCs/Boundary condition 1/PrismTower.inp'
+    , name='PrismTower')
+del mdb.models['Model-1']
+#* *** Error: File open failed (utl_File: CreateFile in OpenWrite)
+#* error: The process cannot access the file because it is being used by 
+#* another process.
+#* 
+#* file: E:\EESD\Schekenberg castle on cite inspection\2024-10-25 
+#* Zurich\Photogrammetry\Try extend the bottom\Variable sensitivty analysis 
+#* with prism tower Fixed BCs\Boundary condition 1\PrismTower.cae
+# Save by nagata on 2025_03_20-16.17.06; build 2023 2022_09_28-20.11.55 183150
